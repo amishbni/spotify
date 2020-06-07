@@ -1,0 +1,8 @@
+# virtual environment
+/venv
+
+# configuration files
+config.py
+
+# pycache directory
+/__pycache__
