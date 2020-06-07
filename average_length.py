@@ -1,4 +1,3 @@
-# Shows a user's playlists
 import sys
 from spotipy import Spotify
 import os
